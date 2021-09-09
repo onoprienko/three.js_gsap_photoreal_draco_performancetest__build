@@ -45,6 +45,19 @@ p{
 }
 
 
-
+@media (max-width: 720px){
+    section {
+        width: 100%;
+        left:  0%;
+        padding: 80px 40px;
+        box-sizing:  border-box;
+    }
+    h2{
+        font-size: 7vh;
+    }  
+    p{
+        font-size: 4vh;
+    }
+}
 
 /*# sourceMappingURL=main.css.map*/
